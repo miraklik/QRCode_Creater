@@ -6,7 +6,7 @@ from io import BytesIO
 from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
-API_TOKEN = "7672110193:AAGQuUOCxP47Nqs6cTDuuD9hEqu-K0Mu6Jg"
+API_TOKEN = "YOUR API KEY"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
